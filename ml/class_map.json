@@ -1,0 +1,15 @@
+{
+  "Apple___Apple_scab": {"crop":"apple","disease":"Apple scab","guidance":"Remove fallen affected leaves where practical and ask a local crop adviser to confirm symptoms."},
+  "Apple___Black_rot": {"crop":"apple","disease":"Black rot","guidance":"Inspect nearby fruit and branches. Confirm with a local crop adviser before treatment."},
+  "Apple___healthy": {"crop":"apple","disease":"Healthy appearance","guidance":"No supported disease class was identified in this image. Continue regular crop monitoring."},
+  "Corn_(maize)___Common_rust_": {"crop":"maize","disease":"Common rust","guidance":"Inspect nearby plants and ask a local agricultural expert to confirm the symptoms."},
+  "Corn_(maize)___Northern_Leaf_Blight": {"crop":"maize","disease":"Northern leaf blight","guidance":"Check whether symptoms are spreading and seek local confirmation before treatment."},
+  "Grape___Black_rot": {"crop":"grape","disease":"Black rot","guidance":"Inspect affected leaves and fruit. Seek local confirmation before choosing a treatment."},
+  "Potato___Early_blight": {"crop":"potato","disease":"Early blight","guidance":"Check lower leaves and monitor spread. Confirm the problem locally before treatment."},
+  "Potato___Late_blight": {"crop":"potato","disease":"Late blight","guidance":"This can require prompt local assessment. Contact an agricultural expert soon, especially if symptoms are spreading."},
+  "Potato___healthy": {"crop":"potato","disease":"Healthy appearance","guidance":"No supported disease class was identified in this image. Continue regular crop monitoring."},
+  "Tomato___Bacterial_spot": {"crop":"tomato","disease":"Bacterial spot","guidance":"Avoid handling wet plants and ask a local expert to confirm the cause before treatment."},
+  "Tomato___Early_blight": {"crop":"tomato","disease":"Early blight","guidance":"Inspect lower leaves and monitor spread. Confirm the problem locally before treatment."},
+  "Tomato___Late_blight": {"crop":"tomato","disease":"Late blight","guidance":"This can require prompt local assessment. Contact an agricultural expert soon, especially if symptoms are spreading."},
+  "Tomato___healthy": {"crop":"tomato","disease":"Healthy appearance","guidance":"No supported disease class was identified in this image. Continue regular crop monitoring."}
+}
