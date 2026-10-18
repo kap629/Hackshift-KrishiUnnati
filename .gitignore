@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env
+.env.local
+__pycache__/
+.venv/
+ml/data/
+ml/artifacts/*.keras
+ml/artifacts/class_names.json
+ml/reports/
+*.pyc
